@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sohail (@sohail24)
-- 👀 I’m working as a Full Stack Developer, mostly working in Java Spring boot backend applications and react based frontemd Web Apps
+- 👀 I’m working as a Full Stack Developer, mostly working in Java Spring boot backend applications and react based frontend Web Apps
 - 📫 How to reach me : sohailahmadjobs@gmail.com
 
 <!---
