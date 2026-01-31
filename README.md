@@ -9,7 +9,7 @@
 I am a passionate **Full Stack Developer** with **2.5+ years of experience** building robust backend services and interactive web applications. Currently working at **TCS** (Client: **American Express**) in the banking domain, focusing on pricing and tax applications.
 
 - 🔭 I’m currently working on **High-performance Microservices & React Web Apps**.
-- 🌱 I’m currently exploring **MICROSERVICES, AI, GenAI, LLM** and **learning System Design**.
+- 🌱 I’m currently exploring **AI, GenAI, LLM** and learning **Microservices Architecture, System Design**.
 - 👯 I’m looking to collaborate on **Open Source Java/Spring Boot Projects**.
 - 📫 How to reach me: **sohailahmadjobs@gmail.com**
 - ⚡ Fun fact: I have a **9.66 GPA** in Computer Engineering! 🎓
@@ -27,8 +27,8 @@ I am a passionate **Full Stack Developer** with **2.5+ years of experience** bui
 <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" />
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-02303A?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 
 **Frontend & Tools:**
 <br>
