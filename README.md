@@ -12,7 +12,7 @@ I am a passionate **Full Stack Developer** with **2.5+ years of experience** bui
 - 🌱 I’m currently exploring **AI, GenAI, LLM** and learning **Microservices Architecture, System Design**.
 - 👯 I’m looking to collaborate on **Open Source Java/Spring Boot Projects**.
 - 📫 How to reach me: **sohailahmadjobs@gmail.com**
-- ⚡ Fun fact: I have a **9.66 GPA** in Computer Engineering! 🎓
+- ⚡ Academics: I'am an engineer graduated from Pune University in 2022, I have a **9.66 GPA** in Computer Engineering! 🎓
 
 ---
 
