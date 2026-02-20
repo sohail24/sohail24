@@ -60,7 +60,7 @@ I am a passionate **Full Stack Developer** with **2.5+ years of experience** bui
 
 ### 🔗 Connect with Me
 <div align="center">
-  <a href="https://linkedin.com/in/sohail24" target="_blank">
+  <a href="https://in.linkedin.com/in/sohailahmad24" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:sohailahmadjobs@gmail.com">
